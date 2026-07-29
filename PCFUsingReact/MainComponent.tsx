@@ -27,4 +27,5 @@ const MainComponent: React.FC = () => {
     );
 };
 
+//Adding export default statement to make the MainComponent available for import in other files
 export default MainComponent;
